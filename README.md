@@ -4,4 +4,4 @@
 Для парсинга необходимо указать id компании в yandex_id
 
 Так же необходимо установить пакеты<br>
-pip install -R requirements.txt
+pip install -r requirements.txt
